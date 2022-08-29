@@ -1,7 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/w16vy54xq4aw9gemn39p.xml"
-#EXTINF:-1 tvg-chno="2" tvg-id="WCBS.us" tvg-name="WCBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_white_360w_270h.png" group-title="",WCAU
+#EXTINF:-1 tvg-chno="2" tvg-id="WCAU.us" tvg-name="WCBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_white_360w_270h.png" group-title="",WCAU1
 https://mrgmaw.github.io/enlaces/canal.php?st=pi&ch=345&r1=768&r2=432
 
+#EXTINF:-1 tvg-chno="2" tvg-id="WCAU.us" tvg-name="WCBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_white_360w_270h.png" group-title="",WCAU2
+https://mrgmaw.github.io/enlaces/wcau.php
+
+#EXTINF:-1 tvg-chno="2" tvg-id="WCAU.us" tvg-name="WCBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_white_360w_270h.png" group-title="",WCAU2
+https://mrgmaw.github.io/enlaces/wcau.m3u8
 
 
 #EXTINF:-1 tvg-chno="2" tvg-id="WCBS.us" tvg-name="WCBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_white_360w_270h.png" group-title="",WCBS
