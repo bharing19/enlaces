@@ -1,0 +1,20 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="PI",WCAU nbc10
+https://mrgmaw.github.io/enlaces/picau.m3u8
+#EXTINF:-1 group-title="PI",WPVI 6abc
+https://mrgmaw.github.io/enlaces/piabc.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="NY",WABC abc7
+https://mrgmaw.github.io/enlaces/nyabc.m3u8
+#EXTINF:-1 group-title="NY",WCBS cbs2
+https://mrgmaw.github.io/enlaces/nycbs.m3u8
+#EXTINF:-1 group-title="NY",WNBC nbc4
+https://mrgmaw.github.io/enlaces/nynbc.m3u8
+#EXTINF:-1 group-title="NY",WNYW 5fox
+https://mrgmaw.github.io/enlaces/nynyw.m3u8

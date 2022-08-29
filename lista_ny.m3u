@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="NY",WABC
-https://mrgmaw.github.io/enlaces/nyabc.m3u8
-#EXTINF:-1 group-title="NY",WCBS
-https://mrgmaw.github.io/enlaces/nycbs.m3u8
-#EXTINF:-1 group-title="NY",WNBC
-https://mrgmaw.github.io/enlaces/nynbc.m3u8
-#EXTINF:-1 group-title="NY",WNYW
-https://mrgmaw.github.io/enlaces/nynyw.m3u8
