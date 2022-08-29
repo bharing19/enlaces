@@ -1,16 +1,4 @@
 #EXTM3U
-
-
-#EXTINF:-1 group-title="PI",WCAU nbc10
-https://mrgmaw.github.io/enlaces/picau.m3u8
-#EXTINF:-1 group-title="PI",WPVI 6abc
-https://mrgmaw.github.io/enlaces/piabc.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-chno="7.1" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NY",WABC abc7
 https://mrgmaw.github.io/enlaces/nyabc.m3u8
 #EXTINF:-1 tvg-chno="2.1" tvg-id="WCBSDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="NY",WCBS cbs2
@@ -19,3 +7,16 @@ https://mrgmaw.github.io/enlaces/nycbs.m3u8
 https://mrgmaw.github.io/enlaces/nynbc.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="NY",WNYW 5fox
 https://mrgmaw.github.io/enlaces/nynyw.m3u8
+
+
+#EXTINF:-1 group-title="PI",WCAU nbc10
+https://mrgmaw.github.io/enlaces/picau.m3u8
+#EXTINF:-1 group-title="PI",WPVI 6abc
+https://mrgmaw.github.io/enlaces/piabc.m3u8
+
+
+#EXTINF:-1 group-title="SD",WCAU Azt1
+https://mrgmaw.github.io/enlaces/sdazt1.m3u8
+#EXTINF:-1 group-title="SD",WPVI 6abc
+https://mrgmaw.github.io/enlaces/piabc.m3u8
+
