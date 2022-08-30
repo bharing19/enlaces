@@ -1,4 +1,14 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="LA",KABC abc7
+https://mrgmaw.github.io/enlaces/laabc.m3u8
+#EXTINF:-1 tvg-chno="7.1" tvg-id="KCBSDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/CBS_c.png" group-title="LA",KCBS cbs2
+https://mrgmaw.github.io/enlaces/lacbs.m3u8
+#EXTINF:-1 tvg-chno="4.1" tvg-id="KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="LA",KNBC nbc4
+https://mrgmaw.github.io/enlaces/lanbc.m3u8
+#EXTINF:-1 tvg-chno="11.1" tvg-id="KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="LA",KTTV fox11
+https://mrgmaw.github.io/enlaces/lakttv.m3u8
+
 #EXTINF:-1 tvg-chno="7.1" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NY",WABC abc7
 https://mrgmaw.github.io/enlaces/nyabc.m3u8
 #EXTINF:-1 tvg-chno="2.1" tvg-id="WCBSDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="NY",WCBS cbs2
