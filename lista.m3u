@@ -17,8 +17,8 @@ https://mrgmaw.github.io/enlaces/piabc.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJT Azt1
-https://mrgmaw.github.io/enlaces/sdazt1.m3u8
-#EXTINF:-1 group-title="SD",WPVI 6abc
-https://mrgmaw.github.io/enlaces/az1.m3u8
+#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 HD
+https://mrgmaw.github.io/enlaces/sdazt1hd.m3u8
+#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 SD
+https://mrgmaw.github.io/enlaces/sdazt1sd.m3u8
 
