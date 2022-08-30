@@ -35,6 +35,8 @@ https://mrgmaw.github.io/enlaces/picau.m3u8
 #EXTINF:-1 group-title="PI",WPVI 6abc
 https://mrgmaw.github.io/enlaces/piabc.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 FHD
 https://mrgmaw.github.io/enlaces/sdazt1fhd.m3u8
 #EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 HD
@@ -47,7 +49,6 @@ https://mrgmaw.github.io/enlaces/sdazt7hd.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="SD",XHTIT Azt7 SD
 https://mrgmaw.github.io/enlaces/sdazt7sd.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="SD",XETV Canal 5 HD
 https://mrgmaw.github.io/enlaces/sdcnl5hd.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="SD",XETV Canal 5 SD
@@ -58,6 +59,10 @@ https://mrgmaw.github.io/enlaces/sdtvsahd.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="SD",XEWT Televisa SD
 https://mrgmaw.github.io/enlaces/sdtvsasd.m3u8
 
+#EXTINF:-1 tvg-chno="10.1" tvg-id="KGTB.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="SD",KGTB ABC
+https://mrgmaw.github.io/enlaces/sdabc.m3u8
+#EXTINF:-1 tvg-chno="39.1" tvg-id="KNSD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="SD",KNSD NBC
+https://mrgmaw.github.io/enlaces/sdnbc.m3u8
 
 
 
