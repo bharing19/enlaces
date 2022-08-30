@@ -27,3 +27,12 @@ https://mrgmaw.github.io/enlaces/sdazt1sd.m3u8
 https://mrgmaw.github.io/enlaces/sdcnl5hd.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="SD",XETV Canal 5 SD
 https://mrgmaw.github.io/enlaces/sdcnl5sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="SD",XEWT Televisa HD
+https://mrgmaw.github.io/enlaces/sdtvsahd.m3u8
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="SD",XEWT Televisa SD
+https://mrgmaw.github.io/enlaces/sdtvsasd.m3u8
+
+
+
+
