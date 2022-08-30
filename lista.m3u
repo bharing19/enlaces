@@ -7,14 +7,17 @@ https://mrgmaw.github.io/enlaces/nycbs.m3u8
 https://mrgmaw.github.io/enlaces/nynbc.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="NY",WNYW 5fox
 https://mrgmaw.github.io/enlaces/nynyw.m3u8
-
+#EXTINF:-1 tvg-chno="41.1" tvg-id="WFUTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="NY",WFUT Univision 
+https://mrgmaw.github.io/enlaces/nyuniv.m3u8
+#EXTINF:-1 tvg-chno="47.1" tvg-id="WNJUDT1.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="NY",WNJU Telemundo 
+https://mrgmaw.github.io/enlaces/nytelem.m3u8
+#EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="NY",Unimas
+https://mrgmaw.github.io/enlaces/nyunim.m3u8
 
 #EXTINF:-1 group-title="PI",WCAU nbc10
 https://mrgmaw.github.io/enlaces/picau.m3u8
 #EXTINF:-1 group-title="PI",WPVI 6abc
 https://mrgmaw.github.io/enlaces/piabc.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 FHD
 https://mrgmaw.github.io/enlaces/sdazt1fhd.m3u8
