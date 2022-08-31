@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="60.6" tvg-id="KPJK.us" tvg-logo="https://media-usba.mybtv.net/logos/jazztv.png" group-title="CA",KPJK jazz
+https://mrgmaw.github.io/enlaces/cacsm.m3u8
+
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="LA",KABC abc7
 https://mrgmaw.github.io/enlaces/laabc.m3u8
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KCBSDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/CBS_c.png" group-title="LA",KCBS cbs2
