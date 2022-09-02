@@ -3,6 +3,11 @@
 https://mrgmaw.github.io/enlaces/cacsm.m3u8
 #EXTINF:-1 tvg-chno="50.2" tvg-id="KCNS.us" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="CA",KCNS Azteca America
 https://mrgmaw.github.io/enlaces/cacns.m3u8
+#EXTINF:-1 tvg-chno="9.1" tvg-id="KQED.us" tvg-logo="https://image.pbs.org/bento3-prod/kwcm-bento-live-pbs/Logos/PBS%20National/PBS%20logo/aaac26c5b7_PBS_P-Head-01.png" group-title="CA",KQED PBS
+https://mrgmaw.github.io/enlaces/caqed.m3u8
+#EXTINF:-1 tvg-chno="28.1" tvg-id="KCNZ.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/latv.png" group-title="CA",KCNZ LATV
+https://mrgmaw.github.io/enlaces/cacnz.m3u8
+
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="LA",KABC abc7
 https://mrgmaw.github.io/enlaces/laabc.m3u8
