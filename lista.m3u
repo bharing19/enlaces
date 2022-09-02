@@ -9,19 +9,19 @@ https://mrgmaw.github.io/enlaces/caqed.m3u8
 https://mrgmaw.github.io/enlaces/cacnz.m3u8
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="LA",KABC abc7
-https://mrgmaw.github.io/enlaces/laabc.m3u8
+https://mrgmaw.github.io/enlaces/la/laabc.m3u8
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KCBSDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/CBS_c.png" group-title="LA",KCBS cbs2
-https://mrgmaw.github.io/enlaces/lacbs.m3u8
+https://mrgmaw.github.io/enlaces/la/lacbs.m3u8
 #EXTINF:-1 tvg-chno="4.1" tvg-id="KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="LA",KNBC nbc4
-https://mrgmaw.github.io/enlaces/lanbc.m3u8
+https://mrgmaw.github.io/enlaces/la/lanbc.m3u8
 #EXTINF:-1 tvg-chno="11.1" tvg-id="KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="LA",KTTV fox11
-https://mrgmaw.github.io/enlaces/lattv.m3u8
+https://mrgmaw.github.io/enlaces/la/lattv.m3u8
 #EXTINF:-1 tvg-chno="34.1" tvg-id="KMEXDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="LA",KMEX Univision
-https://mrgmaw.github.io/enlaces/lamex.m3u8
+https://mrgmaw.github.io/enlaces/la/lamex.m3u8
 #EXTINF:-1 tvg-chno="52.1" tvg-id="KVEA.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="LA",KVEA Telemundo
-https://mrgmaw.github.io/enlaces/lavea.m3u8
+https://mrgmaw.github.io/enlaces/la/lavea.m3u8
 #EXTINF:-1 tvg-chno="34.1" tvg-id="KMEXDT2.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="LA",KMEX-DT2 Unimas
-https://mrgmaw.github.io/enlaces/lamexdt2.m3u8
+https://mrgmaw.github.io/enlaces/la/lamexdt2.m3u8
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NY",WABC abc7
 https://mrgmaw.github.io/enlaces/nyabc.m3u8
