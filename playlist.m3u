@@ -44,7 +44,8 @@ https://mrgmaw.github.io/enlaces/ny/nyunim.m3u8
 https://mrgmaw.github.io/enlaces/pí/picau.m3u8
 #EXTINF:-1 group-title="PI",WPVI 6abc
 https://mrgmaw.github.io/enlaces/pi/piabc.m3u8
-
+#EXTINF:-1 tvg-chno="3.1" tvg-id="KYWDT1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="PI",KYW cbs3
+https://mrgmaw.github.io/enlaces/pi/piyw.m3u8
 
 #EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 FHD
 https://mrgmaw.github.io/enlaces/sd/sdazt1fhd.m3u8
