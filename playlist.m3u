@@ -40,12 +40,14 @@ https://mrgmaw.github.io/enlaces/ny/nytelem.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="NY",Unimas
 https://mrgmaw.github.io/enlaces/ny/nyunim.m3u8
 
-#EXTINF:-1 group-title="PI",WCAU nbc10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png group-title="PI",WCAU nbc10
 https://mrgmaw.github.io/enlaces/pí/picau.m3u8
-#EXTINF:-1 group-title="PI",WPVI 6abc
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png group-title="PI",WPVI 6abc
 https://mrgmaw.github.io/enlaces/pi/piabc.m3u8
 #EXTINF:-1 tvg-chno="3.1" tvg-id="KYWDT1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="PI",KYW cbs3
 https://mrgmaw.github.io/enlaces/pi/piyw.m3u8
+#EXTINF:-1 tvg-chno="29.1" tvg-id="WTXFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="PI",WTXF fox
+https://mrgmaw.github.io/enlaces/pi/pitxf.m3u8
 
 #EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 FHD
 https://mrgmaw.github.io/enlaces/sd/sdazt1fhd.m3u8
