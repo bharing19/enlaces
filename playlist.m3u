@@ -58,11 +58,12 @@ https://mrgmaw.github.io/enlaces/sd/sdazt1sd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png" group-title="SD",XHTIT2 Azt+ SD
 https://mrgmaw.github.io/enlaces/sd/sdaztmas.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png" group-title="SD",XHTIT2 Azt+ SD
+https://mrgmaw.github.io/enlaces/sd/sdaztmas.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="SD",XHTIT1 Azt7 HD
 https://mrgmaw.github.io/enlaces/sd/sdazt7hd.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="SD",XHTIT1 Azt7 SD
-https://mrgmaw.github.io/enlaces/sd/sdazt7sd.m3u8
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="SD",XHUAA Forotv SD
+https://mrgmaw.github.io/enlaces/sd/sdforotv.m3u8
 #EXTINF:-1 tvg-chno="16.1" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/21134978072561.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg" group-title="SD",KETV El Nu9ve SD
 https://mrgmaw.github.io/enlaces/sd/sdetv.m3u8
 
