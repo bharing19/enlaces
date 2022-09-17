@@ -14,6 +14,8 @@ https://mrgmaw.github.io/enlaces/la/laabc.m3u8
 https://mrgmaw.github.io/enlaces/la/lacal.m3u8
 #EXTINF:-1 tvg-chno="4.1" tvg-id="KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="LA",KNBC nbc4
 https://mrgmaw.github.io/enlaces/la/lanbc.m3u8
+#EXTINF:-1 tvg-chno="5.1" tvg-id="KTLA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="LA",KTLA cw
+https://mrgmaw.github.io/enlaces/la/latla.m3u8
 #EXTINF:-1 tvg-chno="11.1" tvg-id="KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="LA",KTTV fox11
 https://mrgmaw.github.io/enlaces/la/lattv.m3u8
 #EXTINF:-1 tvg-chno="34.1" tvg-id="KMEXDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="LA",KMEX Univision
