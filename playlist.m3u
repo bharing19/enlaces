@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="7.1" tvg-id="KGO.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="SF",KGO abc
+https://mrgmaw.github.io/enlaces/ca/canbc.m3u8
 #EXTINF:-1 tvg-chno="11.1" tvg-id="KNTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="SF",KNTV nbc
 https://mrgmaw.github.io/enlaces/ca/canbc.m3u8
 #EXTINF:-1 tvg-chno="60.6" tvg-id="KPJK.us" tvg-logo="https://media-usba.mybtv.net/logos/jazztv.png" group-title="SF",KPJK jazz
