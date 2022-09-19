@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KGO.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="SF",KGO abc
 https://mrgmaw.github.io/enlaces/ca/caabc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="KPIX-TV" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="SF",KPIX cbs
+#EXTINF:-1 tvg-chno="5.1" tvg-id="KPIX-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="SF",KPIX cbs
 https://mrgmaw.github.io/enlaces/ca/cacbs.m3u8
-#EXTINF:-1 tvg-chno="11.1" tvg-id="KNTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="SF",KNTV nbc
+#EXTINF:-1 tvg-chno="11.1" tvg-id="KNTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="SF",KNTV nbc
 https://mrgmaw.github.io/enlaces/ca/canbc.m3u8
 #EXTINF:-1 tvg-chno="2.1" tvg-id="KTVU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="SF",KTVU fox
 https://mrgmaw.github.io/enlaces/ca/catvu.m3u8
@@ -25,8 +25,12 @@ https://mrgmaw.github.io/enlaces/ca/cafsf.m3u8
 https://mrgmaw.github.io/enlaces/ca/cadtv.m3u8
 
 
-#EXTINF:-1 tvg-chno="12.1" tvg-id="KPNX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="PX",KPNX nbc
-https://mrgmaw.github.io/enlaces/px/pxdjt.m3u8
+#EXTINF:-1 tvg-chno="15.1" tvg-id="KNXV.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="PX",KNXV abc
+https://mrgmaw.github.io/enlaces/px/pxabc.m3u8
+#EXTINF:-1 tvg-chno="5.1" tvg-id="KPHO-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="PX",KPHO cbs
+https://mrgmaw.github.io/enlaces/px/pxcbs.m3u8
+#EXTINF:-1 tvg-chno="12.1" tvg-id="KPNX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="PX",KPNX nbc
+https://mrgmaw.github.io/enlaces/px/pxnbc.m3u8
 #EXTINF:-1 tvg-chno="67.1" tvg-id="KDJTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="PX",KDJT Univision
 https://mrgmaw.github.io/enlaces/px/pxdjt.m3u8
 
