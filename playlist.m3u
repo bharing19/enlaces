@@ -71,6 +71,8 @@ https://mrgmaw.github.io/enlaces/ny/nynyw.m3u8
 
 #EXTINF:-1 tvg-chno="24.2" tvg-id="WASALD1.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="NY",WASA estrella news
 https://mrgmaw.github.io/enlaces/ny/nyasa.m3u8
+#EXTINF:-1 tvg-chno="22.6" tvg-id="WASALD6.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="NY",WASA estrella 
+https://mrgmaw.github.io/enlaces/ny/nyasa1.m3u8
 
 #EXTINF:-1 tvg-chno="41.1" tvg-id="WFUTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="NY",WFUT Univision 
 https://mrgmaw.github.io/enlaces/ny/nyuniv.m3u8
