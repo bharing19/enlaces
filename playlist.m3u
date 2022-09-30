@@ -136,3 +136,5 @@ https://mrgmaw.github.io/enlaces/lv/lvbeinx1.m3u8
 #EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="LV",BeIn extra esp
 https://mrgmaw.github.io/enlaces/lv/lvbeinsp.m3u8
 
+#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="IN",Telemundo 
+https://mrgmaw.github.io/enlaces/in/intelem.m3u8
