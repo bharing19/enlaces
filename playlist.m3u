@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="7.1" tvg-id="KGO.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="SF",KGO abc
+
+#EXTINF:-1 tvg-chno"13.1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="IN",WTHR nbc13 
+https://mrgmaw.github.io/enlaces/in/innbc.m3u8
+#EXTINF:-1 tvg-chno"13.1" tvg-id="" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="IN", Telemundo
+https://mrgmaw.github.io/enlaces/in/intelem.m3u8
+
+#EXTINF:-1 tvg-chno="7.1" tvg-id="KGO.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="SF",KGO TV abc
 https://mrgmaw.github.io/enlaces/ca/caabc.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="KPIX-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="SF",KPIX cbs
 https://mrgmaw.github.io/enlaces/ca/cacbs.m3u8
@@ -135,6 +141,3 @@ https://mrgmaw.github.io/enlaces/lv/lvbeinx.m3u8
 https://mrgmaw.github.io/enlaces/lv/lvbeinx1.m3u8
 #EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="LV",BeIn extra esp
 https://mrgmaw.github.io/enlaces/lv/lvbeinsp.m3u8
-
-#EXTINF:-1 tvg-chno"13.1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="IN",WTHR nbc13 
-https://mrgmaw.github.io/enlaces/in/innbc.m3u8
