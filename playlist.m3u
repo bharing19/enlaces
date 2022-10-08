@@ -4,6 +4,8 @@
 https://mrgmaw.github.io/enlaces/in/innbc.m3u8
 #EXTINF:-1 tvg-chno"13.1" tvg-id="" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="IN", Telemundo
 https://mrgmaw.github.io/enlaces/in/intelem.m3u8
+#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="IN", WBNX 55
+https://mrgmaw.github.io/enlaces/in/inwbnx.m3u8
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KGO.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="SF",KGO TV abc
 https://mrgmaw.github.io/enlaces/ca/caabc.m3u8
