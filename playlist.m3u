@@ -76,6 +76,8 @@ https://mrgmaw.github.io/enlaces/ny/nycbs.m3u8
 https://mrgmaw.github.io/enlaces/ny/nynbc.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="NY",WNYW 5fox
 https://mrgmaw.github.io/enlaces/ny/nynyw.m3u8
+#EXTINF:-1 tvg-chno="9.1" tvg-id="WWORDT1.us" tvg-logo="" group-title="NY",MyNetwork
+https://mrgmaw.github.io/enlaces/ny/nywor.m3u8
 #EXTINF:-1 tvg-chno="24.2" tvg-id="WASALD1.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="NY",WASA estrella news
 https://mrgmaw.github.io/enlaces/ny/nyasa.m3u8
 #EXTINF:-1 tvg-chno="22.6" tvg-id="WASALD6.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="NY",WASA estrella 
@@ -88,7 +90,6 @@ https://mrgmaw.github.io/enlaces/ny/nyunivsd.m3u8
 https://mrgmaw.github.io/enlaces/ny/nytelem.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="NY",Unimas
 https://mrgmaw.github.io/enlaces/ny/nyunim.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="PI",WCAU nbc10
 https://mrgmaw.github.io/enlaces/pi/picau.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="PI",WPVI 6abc
