@@ -152,8 +152,6 @@ https://mrgmaw.github.io/enlaces/lv/lvbeinx1.m3u8
 https://mrgmaw.github.io/enlaces/lv/lvbeinsp.m3u8
 
 #EXTINF:-1 tvg-chno"26.1" tvg-id="" tvg-logo="" group-title="FN",KMPH Fox 26
-https://mrgmaw.github.io/enlaces/lv/kmph.m3u8
+https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
 #EXTINF:-1 tvg-chno"27.1" tvg-id="KYMBLD.us" tvg-logo="https://media.localbtv.com/images/fresnobtv/logos/metv.png" group-title="FN",KYMB MeTv
-https://mrgmaw.github.io/enlaces/lv/kymb.m3u8
-
-
+https://mrgmaw.github.io/enlaces/fn/kymb.m3u8
