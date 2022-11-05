@@ -67,6 +67,10 @@ https://mrgmaw.github.io/enlaces/la/lavea.m3u8
 https://mrgmaw.github.io/enlaces/la/lamexdt2.m3u8
 #EXTINF:-1 tvg-chno="62.1" tvg-id="KRCA.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="LA",KRCA Estrella
 https://mrgmaw.github.io/enlaces/la/larca.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="LA",Comet
+https://mrgmaw.github.io/enlaces/la/lacomet.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="LA",Magestad
+https://mrgmaw.github.io/enlaces/la/lamagestad.m3u8
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NY",WABC abc7
 https://mrgmaw.github.io/enlaces/ny/nyabc.m3u8
