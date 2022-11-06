@@ -48,15 +48,12 @@ https://mrgmaw.github.io/enlaces/px/pxfox.m3u8
 #EXTINF:-1 tvg-chno="39.1" tvg-id="KTAZDT1.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="PX",KTAZ Telemundo
 https://mrgmaw.github.io/enlaces/px/pxtaz.m3u8
 
-
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="LA",KABC abc7
 https://mrgmaw.github.io/enlaces/la/laabc.m3u8
 #EXTINF:-1 tvg-chno="9.1" tvg-id="KCALTV1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="LA",KCAL cbs9
 https://mrgmaw.github.io/enlaces/la/lacal.m3u8
 #EXTINF:-1 tvg-chno="4.1" tvg-id="KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="LA",KNBC nbc4
 https://mrgmaw.github.io/enlaces/la/lanbc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="KTLA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="LA",KTLA cw
-https://mrgmaw.github.io/enlaces/la/latla.m3u8
 #EXTINF:-1 tvg-chno="11.1" tvg-id="KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="LA",KTTV fox11
 https://mrgmaw.github.io/enlaces/la/lattv.m3u8
 #EXTINF:-1 tvg-chno="34.1" tvg-id="KMEXDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="LA",KMEX Univision
@@ -69,9 +66,7 @@ https://mrgmaw.github.io/enlaces/la/lamexdt2.m3u8
 https://mrgmaw.github.io/enlaces/la/larca.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="LA",Comet
 https://mrgmaw.github.io/enlaces/la/lacomet.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="LA",Magestad
-https://mrgmaw.github.io/enlaces/la/lamagestad.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="LA",KTLA The CW
+#EXTINF:-1 tvg-chno="5.1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="LA",KTLA5 The CW
 https://mrgmaw.github.io/enlaces/la/latla5.m3u8
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NY",WABC abc7
