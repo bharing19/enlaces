@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58",url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 
+
+
+
 #EXTINF:-1 tvg-chno"13.1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="IN",WTHR nbc13 
 https://mrgmaw.github.io/enlaces/in/innbc.m3u8
 #EXTINF:-1 tvg-chno"13.1" tvg-id="" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="IN", Telemundo
@@ -106,8 +109,7 @@ https://mrgmaw.github.io/enlaces/pi/piyw.m3u8
 https://mrgmaw.github.io/enlaces/pi/pitxf.m3u8
 #EXTINF:-1 tvg-chno="17.1" tvg-id="WPHLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/320px-MyNetworkTV_2D_Logo.svg.png" group-title="PI",WPHL MyNetwork
 https://mrgmaw.github.io/enlaces/pi/piphl.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://tv-english.club/wp-content/uploads/2014/11/logo-ECTV_%D1%88%D0%B8%D1%80%D0%BE%D0%BA%D0%BE%D0%B5-205x205.jpg" group-title="PI",EC
-https://mrgmaw.github.io/enlaces/pi/pieng.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 FHD
 https://mrgmaw.github.io/enlaces/sd/sdazt1fhd.m3u8
@@ -160,3 +162,10 @@ https://mrgmaw.github.io/enlaces/lv/lvbeinsp.m3u8
 https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
 #EXTINF:-1 tvg-chno"27.1" tvg-id="KYMBLD.us" tvg-logo="https://media.localbtv.com/images/fresnobtv/logos/metv.png" group-title="FN",KYMB MeTv
 https://mrgmaw.github.io/enlaces/fn/kymb.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",EC
+https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",RT
+https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
