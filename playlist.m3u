@@ -164,10 +164,17 @@ https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
 https://mrgmaw.github.io/enlaces/fn/kymb.m3u8
 
 
-
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",DW es
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",NBC
+https://mrgmaw.github.io/enlaces/xy/nbcny.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",ABC
+https://mrgmaw.github.io/enlaces/xy/abcny.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",CBS
+https://mrgmaw.github.io/enlaces/xy/cbsny.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",Fox
+https://mrgmaw.github.io/enlaces/xy/foxny.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",DW
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",RT es
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",RT
 https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",English Club
 https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
