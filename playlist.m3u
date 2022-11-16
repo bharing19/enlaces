@@ -165,7 +165,9 @@ https://mrgmaw.github.io/enlaces/fn/kymb.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",EC
-https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",RT
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",DWes
+https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",RTes
 https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY", English Club
+https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
