@@ -179,3 +179,5 @@ https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
 https://mrgmaw.github.io/enlaces/xy/univny.m3u8
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",Telemundo 
 https://mrgmaw.github.io/enlaces/xy/teleny.m3u8
+#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",TF1 
+https://mrgmaw.github.io/enlaces/xy/tf1.m3u8
