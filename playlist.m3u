@@ -161,9 +161,9 @@ https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
 https://mrgmaw.github.io/enlaces/fn/kymb.m3u8
 
 
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",NBCNewYork
+#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",NBC
 https://mrgmaw.github.io/enlaces/xy/nbcny.m3u8
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",4.nbcny
+#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",ABC
 https://mrgmaw.github.io/enlaces/xy/abcny.m3u8
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",CBSNewYork
 https://mrgmaw.github.io/enlaces/xy/cbsny.m3u8
