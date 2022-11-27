@@ -1,5 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2138187,RESOLUTION=768x432,FRAME-RATE=30
-https://v-ny.mybtv.net/live/548/768x432.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=339175617,RESOLUTION=1280x720,FRAME-RATE=30
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?terminate=false&sid=ROKUCHANNEL-008bdc40-7e5b-4edd-b6b5-2cdd3a343d3c&deviceDNT=1&advertisingId=channel&deviceModel=web&deviceVersion=1.0&embedPartner=rokuChannel&serverSideAds=true&appName=rokuchannel&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
