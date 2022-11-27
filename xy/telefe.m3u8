@@ -1,6 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="spa",NAME="Spanish",INSTREAM-ID="CC1"
-#EXT-X-STREAM-INF:BANDWIDTH=2977158,AVERAGE-BANDWIDTH=2745600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.970,CLOSED-CAPTIONS="CC"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2138187,RESOLUTION=768x432,FRAME-RATE=30
+https://v-ny.mybtv.net/live/548/768x432.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=339175617,RESOLUTION=1280x720,FRAME-RATE=30
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?terminate=false&sid=ROKUCHANNEL-008bdc40-7e5b-4edd-b6b5-2cdd3a343d3c&deviceDNT=1&advertisingId=channel&deviceModel=web&deviceVersion=1.0&embedPartner=rokuChannel&serverSideAds=true&appName=rokuchannel&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel
