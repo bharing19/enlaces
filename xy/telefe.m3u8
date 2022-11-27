@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="spa",NAME="Spanish",INSTREAM-ID="CC1"
+#EXT-X-STREAM-INF:BANDWIDTH=2977158,AVERAGE-BANDWIDTH=2745600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.970,CLOSED-CAPTIONS="CC"
+2977158/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-de2662a5-3ddd-496b-88b2-642675874ac5&deviceDNT=1&advertisingId=channel&deviceModel=web&deviceVersion=1.0&embedPartner=rokuChannel&serverSideAds=true&appName=rokuchannel&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel
