@@ -52,6 +52,13 @@ https://mrgmaw.github.io/enlaces/px/pxazam.m3u8
 #EXTINF:-1 tvg-chno="39.1" tvg-id="KTAZDT1.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="PX",KTAZ Telemundo
 https://mrgmaw.github.io/enlaces/px/pxtaz.m3u8
 
+#EXTINF:-1 tvg-chno="51.1" tvg-id="KPPXDT1.us" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2017/08/Ion-tv.jpg" group-title="PX",KTAZ Telemundo
+https://mrgmaw.github.io/enlaces/px/pxion.m3u8
+#EXTINF:-1 tvg-chno="8.1" tvg-id="KAETDT1.us" tvg-logo="https://image.pbs.org/bento3-prod/kwcm-bento-live-pbs/Logos/PBS%20National/PBS%20logo/aaac26c5b7_PBS_P-Head-01.png" group-title="PX",KTAZ Telemundo
+https://mrgmaw.github.io/enlaces/px/pxpbs.m3u8
+
+
+
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="LA",KABC abc7
 https://mrgmaw.github.io/enlaces/la/laabc.m3u8
 #EXTINF:-1 tvg-chno="9.1" tvg-id="KCALTV1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="LA",KCAL cbs9
