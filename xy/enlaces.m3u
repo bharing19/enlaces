@@ -7,6 +7,8 @@ https://mrgmaw.github.io/enlaces/xy/abcny.m3u8
 https://mrgmaw.github.io/enlaces/xy/cbsny.m3u8
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Fox5NY
 https://mrgmaw.github.io/enlaces/xy/foxny.m3u8
+#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",BBC World
+https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Deutsche Welle
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",RT
@@ -17,5 +19,7 @@ https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
 https://mrgmaw.github.io/enlaces/xy/univny.m3u8
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Telemundo 
 https://mrgmaw.github.io/enlaces/xy/teleny.m3u8
-#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",BBC World
-https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
+#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Azteca uno
+https://mrgmaw.github.io/enlaces/xy/azt1.m3u8
+#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Azteca mas
+https://mrgmaw.github.io/enlaces/xy/aztmas.m3u8
