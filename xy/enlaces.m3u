@@ -13,6 +13,8 @@ https://mrgmaw.github.io/enlaces/xy/azt1.m3u8
 https://mrgmaw.github.io/enlaces/xy/aztmas.m3u8
 #EXTINF:-1 group-title="TvAmerica",Hola Tv
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
+#EXTINF:-1 group-title="TvAmerica",24h
+https://mrgmaw.github.io/enlaces/xy/es24h.m3u8
 
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",NBC
 https://mrgmaw.github.io/enlaces/xy/nbcny.m3u8
