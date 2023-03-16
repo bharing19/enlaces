@@ -194,6 +194,8 @@ https://mrgmaw.github.io/enlaces/xy/foxny.m3u8
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",RT
 https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
+#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",CNNEsp
+http://190.83.119.67:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",English Club
 https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",Univision 
