@@ -3,29 +3,21 @@
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",RT
 https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
-#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Univision
-https://mrgmaw.github.io/enlaces/xy/univny.m3u8
-#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Telemundo
-https://mrgmaw.github.io/enlaces/xy/teleny.m3u8
+
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Foro Tv
-https://mrgmaw.github.io/enlaces/xy/forotv.m3u8
-#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Azteca uno
-https://mrgmaw.github.io/enlaces/xy/azt1.m3u8
-#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Azteca mas
-https://mrgmaw.github.io/enlaces/xy/aztmas.m3u8
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 #EXTINF:-1 group-title="TvAmerica",Hola Tv
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
 #EXTINF:-1 group-title="TvAmerica",24h
 https://mrgmaw.github.io/enlaces/xy/es24h.m3u8
 
-#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",NBC
-https://mrgmaw.github.io/enlaces/xy/nbcny.m3u8
-#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",ABC
-https://mrgmaw.github.io/enlaces/xy/abcny.m3u8
-#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",CBSNewYork
-https://mrgmaw.github.io/enlaces/xy/cbsny.m3u8
-#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Fox5NY
-https://mrgmaw.github.io/enlaces/xy/foxny.m3u8
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",NBC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",ABC News
@@ -34,7 +26,3 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",English Club
 https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
-
-
-#EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",FNX 432p
-https://mrgmaw.github.io/enlaces/xy/fnx.m3u8
