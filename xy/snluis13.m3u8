@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1533952,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080
-https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/chunklist_w620100841_b1533952.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=874152,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=960x540
-https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/chunklist_w620100841_b799152.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=922704,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1024x516
+https://stmvideo2.livecastv.com/canal7/canal7/chunklist_w518386029.m3u8
