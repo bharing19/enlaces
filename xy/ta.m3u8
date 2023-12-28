@@ -12,8 +12,3 @@ https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21a
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-video=3000000.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=7686000,AVERAGE-BANDWIDTH=6987000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=25,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-video=6499968.m3u8
-
-# keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=292000,CODECS="avc1.64001F",RESOLUTION=960x540,URI="https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/keyframes/live-video=2000000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=438000,CODECS="avc1.64001F",RESOLUTION=1280x720,URI="https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/keyframes/live-video=3000000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=948000,CODECS="avc1.640028",RESOLUTION=1920x1080,URI="https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/keyframes/live-video=6499968.m3u8"
