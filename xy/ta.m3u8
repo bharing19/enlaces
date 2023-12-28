@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audios",NAME="Castellano",LANGUAGE="spa",CHANNELS="2",DEFAULT=YES,AUTOSELECT=YES
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audios",NAME="Original",LANGUAGE="qaa",CHANNELS="2",DEFAULT=NO,URI="https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_a_14.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audios",NAME="Original",LANGUAGE="qaa",CHANNELS="2",DEFAULT=NO,URI="https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-audio_0=96000.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audios",NAME="Audio Descripcion",LANGUAGE="ads",CHANNELS="2",DEFAULT=NO,CHARACTERISTICS="public.accessibility.describes-video",URI="https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_a_15.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3615130,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audios"
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-video=3000000.m3u8
