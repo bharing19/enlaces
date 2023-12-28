@@ -3,7 +3,7 @@
 ## Created with Unified Streaming Platform (version=1.11.17-26567)
 
 # AUDIO groups
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-96",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-audio_0=96000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-96",LANGUAGE="sp",NAME="Spanish",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-audio_0=96000.m3u8"
 
 # variants
 #EXT-X-STREAM-INF:BANDWIDTH=807000,AVERAGE-BANDWIDTH=733000,CODECS="mp4a.40.2,avc1.640015",RESOLUTION=480x270,FRAME-RATE=25,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
