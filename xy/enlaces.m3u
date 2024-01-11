@@ -1,4 +1,35 @@
 #EXTM3U
+
+#EXTINF:0 group-title="Nacional", Teleamazonas
+http://177.234.230.226:8011/play/a02d/index.m3u8
+
+
+#EXTINF:0 group-title="Nacional", Ecuavisa 
+http://177.234.230.226:8011/play/a02l/index.m3u8
+
+#EXTINF:0 group-title="Nacional", Ecuador  tv
+http://177.234.230.226:8011/play/a02k/index.m3u8
+
+#EXTINF:0 group-title="Nacional", TVC
+http://177.234.230.226:8011/play/a02h/index.m3u8
+
+#EXTINF:0 group-title="Nacional", GamaTv
+http://177.234.230.226:8011/play/a02j/index.m3u8
+
+#EXTINF:0 group-title="Nacional", RTS
+http://177.234.230.226:8011/play/a02m/index.m3u8
+
+#EXTINF:0 group-title="Nacional", RTU
+http://177.234.230.226:8011/play/a02g/index.m3u8
+
+#EXTINF:0 group-title="Nacional", Tc televisión 
+http://177.234.230.226:8011/play/a02e/index.m3u8
+
+#EXTINF:0 group-title="Nacional", Oromar
+http://177.234.230.226:8011/play/a02i/index.m3u8
+
+
+
 #EXTINF:-1 group-title="TvAmerica" tvg-chno="" tvg-id="" tvg-logo="",Deutsche Welle
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
 
