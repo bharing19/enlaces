@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Teleamazonas.ec" group-title="ECUADOR",T.A.
+https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+
+
+#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" , Stream ta
+https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+
+
+
+
 #EXTINF:0 group-title="Nacional", Teleamazonas
 http://177.234.230.226:8011/play/a02d/index.m3u8
 
