@@ -7,8 +7,8 @@ https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21a
 #EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0" group-title="Nacional, Stream ta
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
-
-
+#EXTINF:0 group-title="Nacional", tcvm3u8
+https://mrgmaw.github.io/enlaces/xy/tvc.m3u8
 
 #EXTINF:0 group-title="Nacional", Teleamazonas
 http://177.234.230.226:8011/play/a02d/index.m3u8
