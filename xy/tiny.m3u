@@ -1,23 +1,35 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Cable",Just for laugh
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6093f48c95132a00075fd859/master.m3u8advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba83c802-56b5-11eb-8bd3-bb18f43a3d77&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fce1a11-6571-494b-befd-e33c841f6807&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Cable",Canal 5 pl
-https://v3.playerlatino.live/stream/m3u8/14
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba83c802-56b5-11eb-8bd3-bb18f43a3d77&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fce1a11-6571-494b-befd-e33c841f6807&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="Cable",Canal 5 alt 1
 http://181.78.105.146:2000/play/a038/index.m3u8
 
-#EXTINF:-1 group-title="Cable",HBO Family HD
-http://168.194.171.33:8000/play/a08q/index.m3u8
+#EXTINF:-1 group-title="Cable", Lifetime es
+http://170.254.18.106/LIFETIME/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 group-title="Cable",El Gourmet HD
-http://204.199.113.33:15017/play/a05w/index.m3u8
+#EXTINF:-1 group-title="Cable",HBO XTRM es
+http://170.254.18.106/HBO_XTREME/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 group-title="Cable", CNN
-http://204.199.113.33:15017/play/a06d/index.m3u8
+#EXTINF:-1 group-title="Cable",HBO FMLY es
+http://170.254.18.106/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 group-title="Cable",espn3
-http://204.199.113.33:15017/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Cable",HBO2 es
+http://170.254.18.106/HBO2/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="Cable",H2 es
+http://170.254.18.106/HISTORY2/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="Cable",History es
+http://170.254.18.106/HISTORY/tracks-v1a2/mono.m3u8
+
+
+
+
+
+
+
+
+
 
