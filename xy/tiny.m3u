@@ -12,21 +12,5 @@ https://linear-310.frequency.stream/dist/vix/310/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Cable",Disney
 http://45.232.148.101:8000/play/a05q/index.m3u8
 
-#EXTINF:-1 group-title="Cable",HBO2 es
-http://170.254.18.106/HBO2/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="Cable",H2 es
-http://170.254.18.106/HISTORY2/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="Cable",History es
-http://170.254.18.106/HISTORY/tracks-v1a2/mono.m3u8
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Cable",HBO Family
+http://45.232.148.101:8000/play/a06k/index.m3u8
