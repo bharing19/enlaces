@@ -16,7 +16,7 @@ http://45.232.148.101:8000/play/a05q/index.m3u8
 http://45.232.148.101:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 group-title="Cable",Cartoon
-http://45.232.148.101:8000/play/a081/index.m3u8
+http://200.115.120.1:8000/play/ca002/index.m3u8
 
 #EXTINF:-1 group-title="Cable",Disney Jr.
 http://200.115.120.1:8000/play/ca009/index.m3u8
