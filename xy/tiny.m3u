@@ -7,7 +7,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6093f48c95132a00075
 http://45.232.148.101:8000/play/a062/index.m3u8
 
 #EXTINF:-1 group-title="Cable", 310 Comedia mx
-https://linear-310.frequency.stream/dist/vix/310/hls/master/playlist.m3u8
+http://200.115.120.1:8000/play/ca012/index.m3u8
 
 #EXTINF:-1 group-title="Cable",Disney
 http://45.232.148.101:8000/play/a05q/index.m3u8
