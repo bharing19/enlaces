@@ -6,8 +6,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6093f48c95132a00075
 #EXTINF:-1 group-title="Cable",El Gourmet 
 http://45.232.148.101:8000/play/a062/index.m3u8
 
-#EXTINF:-1 group-title="Cable", Lifetime es
-http://170.254.18.106/LIFETIME/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Cable", 310 Comedia mx
+https://linear-310.frequency.stream/dist/vix/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Cable",HBO XTRM es
 http://170.254.18.106/HBO_XTREME/tracks-v1a2/mono.m3u8
