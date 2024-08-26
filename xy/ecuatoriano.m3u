@@ -49,7 +49,7 @@ http://177.234.247.66:8888/play/a01p/index.m3u8
 http://177.234.247.66:8888/play/a08l/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", UCSG
-https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
+https://stream.catomedia.net/catomedia-app/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", TVC 
 http://190.95.220.212:8000/play/a0lx/index.m3u8
