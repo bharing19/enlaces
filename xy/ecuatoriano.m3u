@@ -4,7 +4,7 @@
 http://190.95.220.212:8000/play/a0l7/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano",Hola tv
-http://190.95.220.212:8000/play/a052/index.m3u8
+http://190.95.220.212:8000/play/a0lm/index.m3u8
 
 #EXTINF:-1 group-title="Ecuatoriano",EWTN op1
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -12,35 +12,35 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:0 group-title="Ecuatoriano", EWTV op2
 http://190.95.220.212:8000/play/a0jk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_200x200.jpg" group-title="Ecuatoriano" tvg-name="RTV Diocesana Toledo España",RTV Diocesana Toledo España
+#EXTINF:-1 group-title="Ecuatoriano", RTV Diocesana Toledo España
 https://mrgmaw.github.io/enlaces/xy/rtvd.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano",Ecuavisa no24-7
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", Teleamazonas
-http://190.95.220.212:8000/play/a04i/index.m3u8
+http://190.95.220.212:8000/play/a0lr/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", Ecuavisa
-http://190.95.220.212:8000/play/a0gv/index.m3u8
+http://190.95.220.212:8000/play/a0lu/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", El canal DF 
-http://190.95.220.212:8000/play/a04n/index.m3u8
+http://190.95.220.212:8000/play/a0lw/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", Tc Television 
-http://190.95.220.212:8000/play/a04g/index.m3u8
+http://190.95.220.212:8000/play/a0lp/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", Gamavision 
-http://190.95.220.212:8000/play/a04k/index.m3u8
+http://190.95.220.212:8000/play/a0lt/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", Oromar 
-http://190.95.220.212:8000/play/a04j/index.m3u8
+http://190.95.220.212:8000/play/a0ls/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", RTS 
-http://190.95.220.212:8000/play/a04e/index.m3u8
+http://190.95.220.212:8000/play/a0lz/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", Ecuador tv
-http://190.95.220.212:8000/play/a04m/index.m3u8
+http://190.95.220.212:8000/play/a0lv/index.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", RTU 
 http://177.234.247.66:8888/play/a01p/index.m3u8
@@ -52,4 +52,7 @@ http://177.234.247.66:8888/play/a08l/index.m3u8
 https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
 
 #EXTINF:0 group-title="Ecuatoriano", TVC 
-http://190.95.220.212:8000/play/a04o/index.m3u8
+http://190.95.220.212:8000/play/a0lx/index.m3u8
+
+#EXTINF:0 group-title="Ecuatoriano", Wuan+
+http://190.95.220.212:8000/play/a0ly/index.m3u8
