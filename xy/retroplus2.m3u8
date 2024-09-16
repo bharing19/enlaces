@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1993100,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w261577653.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1999718,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1518426591.m3u8
