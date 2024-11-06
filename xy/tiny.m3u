@@ -1,7 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Cable",Just for laugh
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6093f48c95132a00075fd859/master.m3u8advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba83c802-56b5-11eb-8bd3-bb18f43a3d77&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fce1a11-6571-494b-befd-e33c841f6807&userId=&serverSideAds=true
+
 #EXTINF:-1 group-title="Cable",El Gourmet 
-http://181.129.198.238:8000/play/a00r/index.m3u8
+http://38.41.8.1:8000/play/a0da
+
 
 #EXTINF:-1 group-title="Cable",Disney
 http://200.115.120.1:8000/play/ca012/index.m3u8
