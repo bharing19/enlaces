@@ -14,13 +14,13 @@ http://190.13.81.218:18000/play/a0ga
 
 
 #EXTINF:-1 group-title="Cable",Disney
-http://190.13.81.218:18000/play/a0i1
+http://167.250.180.251:4000/play/a090/index.m3u8
 
 #EXTINF:-1 group-title="Cable",HBO Family op1
 http://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 group-title="Cable",Cartoon
-http://200.115.120.1:8000/play/ca002/index.m3u8
+http://167.250.180.251:4000/play/a083/index.m3u8
 
 #EXTINF:-1 group-title="Cable",Disney Jr.
-http://190.13.81.218:18000/play/a0ia
+http://167.250.180.251:4001/play/a0gh/index.m3u8
