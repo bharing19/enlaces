@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:4
+#EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-96",LANGUAGE="es",NAME="Espanhol",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="http://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-audio_0=96000.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=807000,AVERAGE-BANDWIDTH=733000,CODECS="mp4a.40.2,avc1.640015",RESOLUTION=480x270,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
 http://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=600000.m3u8
