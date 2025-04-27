@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2628490,CODECS="avc1.42001e,mp4a.40.2",RESOLUTION=1920x1080
-https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w638297827.m3u8
+http://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8
