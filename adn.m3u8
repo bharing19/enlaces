@@ -3,12 +3,12 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="spa",NAME="Spanish",INSTREAM-ID="CC1"
 #EXT-X-STREAM-INF:BANDWIDTH=2977920,AVERAGE-BANDWIDTH=2745600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
-http://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4livestitch/2977920/playlist.m3u8?terminate=false&sid=5c994790-62bc-11ef-843f-be5cd951c95a&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
+https://stitcher.pluto.tv/stitch/hls/channel/652e922db4b047000825f975livestitch/2977920/playlist.m3u8?terminate=false&sid=5c994790-62bc-11ef-843f-be5cd951c95a&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
 #EXT-X-STREAM-INF:BANDWIDTH=2020480,AVERAGE-BANDWIDTH=1865600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
-http://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4livestitch/2020480/playlist.m3u8?terminate=false&sid=5c994790-62bc-11ef-843f-be5cd951c95a&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
+https://stitcher.pluto.tv/stitch/hls/channel/652e922db4b047000825f975livestitch/2020480/playlist.m3u8?terminate=false&sid=5c994790-62bc-11ef-843f-be5cd951c95a&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
 #EXT-X-STREAM-INF:BANDWIDTH=1302400,AVERAGE-BANDWIDTH=1205600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
-http://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4livestitch/1302400/playlist.m3u8?terminate=false&sid=5c994790-62bc-11ef-843f-be5cd951c95a&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
+https://stitcher.pluto.tv/stitch/hls/channel/652e922db4b047000825f975livestitch/1302400/playlist.m3u8?terminate=false&sid=5c994790-62bc-11ef-843f-be5cd951c95a&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
 #EXT-X-STREAM-INF:BANDWIDTH=823680,AVERAGE-BANDWIDTH=765600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
-http://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4livestitch/823680/playlist.m3u8?terminate=false&sid=5c994790-62bc-11ef-843f-be5cd951c95a&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
+https://stitcher.pluto.tv/stitch/hls/channel/652e922db4b047000825f975livestitch/823680/playlist.m3u8?terminate=false&sid=5c994790-62bc-11ef-843f-be5cd951c95a&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
 #EXT-X-STREAM-INF:BANDWIDTH=464640,AVERAGE-BANDWIDTH=435600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
-http://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4livestitch/464640/playlist.m3u8?terminate=false&sid=5c994790-62bc-11ef-843f-be5cd951c95a&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
+https://stitcher.pluto.tv/stitch/hls/channel/652e922db4b047000825f975livestitch/464640/playlist.m3u8?terminate=false&sid=5c994790-62bc-11ef-843f-be5cd951c95a&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
