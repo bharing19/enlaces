@@ -1,0 +1,6 @@
+#EXTM3U
+## Created with Golumi Video Platform
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audios",NAME="Castellano",LANGUAGE="spa",CHANNELS="2",DEFAULT=YES,AUTOSELECT=YES
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3012608,AVERAGE-BANDWIDTH=3012608,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audios"
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
