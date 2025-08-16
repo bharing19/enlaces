@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2088888,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w62083418.m3u8
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
