@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=556679,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/360p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1270579,RESOLUTION=960x540
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/original.m3u8
