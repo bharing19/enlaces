@@ -1,1 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3290000,BANDWIDTH=4090000,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640020,mp4a.40.2",CLOSED-CAPTIONS=NONE
 http://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=http://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_5.m3u8&redirect=true
