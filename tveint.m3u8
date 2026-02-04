@@ -1,7 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:8
-#EXT-X-MEDIA:TYPE=AUDIO,URI="http://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional-mp4a_130400_spa=16.m3u8",GROUP-ID="audio-AACL-130",LANGUAGE="es",NAME="Spanish",AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-STREAM-INF:BANDWIDTH=2476873,AVERAGE-BANDWIDTH=2251704,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-130"
 http://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
-#EXT-X-I-FRAME-STREAM-INF:URI="http://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional-iframe-avc1_2000000=9.m3u8",BANDWIDTH=291499,AVERAGE-BANDWIDTH=265000,CODECS="avc1.640020",RESOLUTION=1280x720
-#EXT-X-INDEPENDENT-SEGMENTS
